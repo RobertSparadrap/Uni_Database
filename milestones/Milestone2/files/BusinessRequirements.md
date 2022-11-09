@@ -1,6 +1,6 @@
 Queries in file tests.sql:
-1 Find all Students with their courses, its section and their professors
-2 Find the number or students that each professors have
+1- Find all Students with their courses, its section and their professors
+2- Find the number or students that each professors have
 3 Find the average grade for each course that have each students
 4 Find the overall average grade for each student
 5 Show Students with all their assignment in all classes, if they didn?t had an assignment in a class, it shows ’null’ and show also the professor
