@@ -22,7 +22,7 @@ Queries in file tests.sql
 21. Find all Researcher see all their publications
 22. Count how many publication did each Researcher
 23. Who published the most paper research ?
-24. Which student have an Intern ? And in which position ?__
+24. Which student have an Intern ? And in which position ?<br />
 Function, Procedure and Triggers in file inserts.sql
 1. Create a procedure where we can Put the International Students id and we’ll get courses that he/she can take
 2. Createa function to see if there are still place for a student to be in one specific course/section, if the result is 1, it means TRUE, 0 means FALSE
