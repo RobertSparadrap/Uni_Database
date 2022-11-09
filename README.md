@@ -10,8 +10,8 @@ Welcome to Database Systems!. Please modify this README file with the following 
 |        Assignment           |   Completed/Not-Completed  |
 | --------------------------- | -------------------------- |
 | Milestone #1                |        completed/done      |
-| Milestone #2 (chekpoint 1)  |        not completed       |
-| Milestone #2 (chekpoint 2)  |        not completed       |
+| Milestone #2 (chekpoint 1)  |        completed/done      |
+| Milestone #2 (chekpoint 2)  |        completed/done      |
 | Milestone #3                |        not completed       |
 
 
