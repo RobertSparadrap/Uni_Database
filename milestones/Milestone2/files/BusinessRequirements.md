@@ -30,3 +30,7 @@ Function, Procedure and Triggers in file inserts.sql<br /><br />
 4. Create a Trigger that can insert data inside Prerequisite after inserting on Course
 5. Create a Trigger that can update the students gpa each time the grade of his assignment is upgraded
 6. Create a Trigger that see the size of a class, this will define the size of the section, so if the class changes, the size of the section also will change
+7. Create a Function that returns a Boolean to know if the international student have the knowledge to take one specific course
+8. Create a Function that will call the function number 2 and the function number 7 to know if the international student can take and be added in a specific course and section
+9. Create a procedure for function 2
+10. Create a procedure for function 8
